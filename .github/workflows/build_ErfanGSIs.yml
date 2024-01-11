@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://www.jisupan.cn/highway/BgAGBVEEUw/20230708220719TxmKFL.html?from=&pt=
-  ROM_NAME: Generic
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/m6/6.2.0.5/cn/20180411144909/8db0a2f5/update.zip
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
